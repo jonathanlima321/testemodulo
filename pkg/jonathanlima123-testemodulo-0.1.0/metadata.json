@@ -1,0 +1,17 @@
+{
+  "name": "jonathanlima123-testemodulo",
+  "version": "0.1.0",
+  "author": "jonathanlima123",
+  "summary": "Modulo de teste para Puppet Forge",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jonathanlima123/testemodulo.git",
+  "project_page": "https://github.com/jonathanlima123/testemodulo",
+  "issues_url": "https://github.com/jonathanlima123/testemodulo/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
